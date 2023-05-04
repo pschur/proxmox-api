@@ -1,4 +1,17 @@
 {
+  "name": "pschur/proxmox-api",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["log","logging"],
+  "homepage": "https://github.com/pschur/proxmox-api",
+  "authors": [
+    {
+      "name": "Paul Schur",
+      "email": "projekt.paul.schur@gmail.com",
+      "homepage": "https://github.com/pschur",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "ext-curl": "*",
     "php-curl-class/php-curl-class": "^9.14"
